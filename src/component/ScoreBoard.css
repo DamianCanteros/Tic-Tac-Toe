@@ -11,9 +11,9 @@
     font-size: 2em;
     padding: 5px;
     font-weight: bold;
-    background-color: hsl(9, 81%, 47%);
+    background-color:  hsl(221, 67%, 51%);
 }
 
 .score-board div:first-child {
-    background-color: hsl(221, 67%, 51%);
+    background-color: hsl(9, 81%, 47%);
 }
